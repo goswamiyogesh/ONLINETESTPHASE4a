@@ -1,0 +1,44 @@
+[
+    {
+    "question": "Which of the following option leads to the portability and security of Java?",
+    "choice1": "Bytecode is executed by JVM",
+    "choice2": "The applet makes the Java code secure and portable",
+    "choice3": "Use of exception handling",
+    "choice4": "Dynamic binding between objects",
+    "answer": 1
+    },
+    {
+    "question": "Which of the following is not a Java features?",
+    "choice1": "Dynamic",
+    "choice2": "Architecture Neutral",
+    "choice3": "Use of pointers",
+    "choice4": "Object-oriented",
+    "answer": 3
+     },
+        
+     {
+     "question": "Which of the following is a valid long literal?",
+    "choice1": "ABH8097",
+     "choice2": "L990023",
+    "choice3": "904423",
+     "choice4": "0xnf029L",
+    "answer": 4
+     },
+    {
+     "question": "Which of the following for loop declaration is not valid?",
+    "choice1": "for ( int i = 99; i >= 0; i / 9 )",
+    "choice2": "for ( int i = 7; i <= 77; i += 7 )",
+     "choice3": "for ( int i = 20; i >= 2; - -i )",
+    "choice4": "for ( int i = 2; i <= 20; i = 2* i )",
+    "answer": 1
+    },
+    {
+    "question": "Who invented Java Programming?",
+    "choice1": "Guido van Rossum",
+     "choice2": " James Gosling",
+    "choice3": " Dennis Ritchie",
+    "choice4": "Bjarne Stroustrup",
+     "answer": 2
+     }      
+
+]
